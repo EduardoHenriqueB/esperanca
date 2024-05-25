@@ -1,0 +1,56 @@
+.logo{
+    width: 60vh;
+    display: flexbox;
+    position: relative;
+    left: 55vh;
+    top: 3vh;
+}
+
+.texto{
+    top:-5vh;
+    left: 65vh;
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.botao1{
+    left: 140vh;
+    position: relative;
+    top:-42vh;
+    background-color: rgb(221, 114, 15);
+    border-radius: 10px;
+    padding: 10px;
+    color:white;
+    font-size: large;
+}
+
+.botao2{
+    left: 115.8vh;
+    position: relative;
+    top: -32vh;
+    background-color: rgb(221, 114, 15);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: large;
+    color: white;
+}
+
+.texto2{
+    top:-45vh;
+    left: 129vh;
+    position: relative;
+    color: white;
+    font-size: 3.5vh;
+    font-weight: bolder;
+    width: 50vh;
+}
+
+.placa{
+    display: flexbox;
+    position: relative;
+    bottom: -4vh;
+    right: -90vh;
+    width: 60vh;
+}

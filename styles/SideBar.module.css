@@ -1,0 +1,17 @@
+.botaoQuiz{
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    color: #1a1a1a;
+    border-radius: 0.5rem;
+    color: #fff;
+    background-color: #f7fafc;
+}
+
+.side_logo{
+    /* h-13 me-6 sm:h-30 */
+    height: 20vh;
+    right: -6vh;
+    bottom: -1vh;
+    position: relative;
+}
